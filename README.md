@@ -1,7 +1,7 @@
 # UIDAI 2.0: Predictive Lifecycle & Regional Maturity Framework
 
-![Project Banner](![Project Banner](https://github.com/susendran-k/UIDAI---Hackathon/blob/main/new%20combined/Charts/UIDAI%20hackathon.jpeg?raw=true)
-)
+![Project Banner](https://github.com/susendran-k/UIDAI---Hackathon/blob/main/new%20combined/Charts/UIDAI%20hackathon.jpeg?raw=true)
+
 
 ## 🚀 Overview
 This repository contains a comprehensive data analytics pipeline designed for the **UIDAI Hackathon**. By processing over **2.2 million records**, I developed a strategic roadmap to transition Aadhaar from a "Mass Enrollment" phase to a "Lifecycle Management" phase.
