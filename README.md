@@ -48,5 +48,5 @@ As a Data Analyst enthusiast, I utilized the following tools to build this end-t
 * **Live API Integration:** Converting the pipeline into a real-time monitoring dashboard for UIDAI Regional Offices.
 
 ---
-**Author:** [Susendran K]  
+**Author:** Susendran K
 **Goal:** Leveraging data to build a more resilient digital identity infrastructure for India.
